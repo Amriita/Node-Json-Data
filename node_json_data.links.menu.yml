@@ -1,0 +1,6 @@
+node_json_data.admin_settings:
+  title: 'Node json data'
+  description: 'Node json data form'
+  route_name: node_json_data.api_key
+  parent: system.admin_config_content
+  weight: 10

@@ -1,0 +1,5 @@
+name: 'Node Json Data'
+type: module
+description: 'An Simple Configuration Form'
+core_version_requirement: ^8 || ^9
+package: 'custom'
